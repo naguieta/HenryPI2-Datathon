@@ -1,5 +1,5 @@
 # HenryPI2-Datathon
-##Análisis de precios de propiedades de Estados Unidos
+## Análisis de precios de propiedades de Estados Unidos
 
 En Base a dos archivos en formato Parquet, que contiene datos sobre las caracteristicas de propiedades, se nos pidió implementar un modelo con aprendizaje supervisado, que nos permita clasificar el precio de las propiedades en venta y un modelo con aprendizaje no supervisado para agrupar las propiedades en 3 categorias.
 
